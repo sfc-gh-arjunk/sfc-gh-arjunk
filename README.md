@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sfc-gh-arjun
+- 👋 Hi, I’m @sfc-gh-arjunk
 - 👀 I’m interested in best-of-the-breed organization, delivery and consumption of data 
 - 🌱 I’m currently learning to put data into hyperdrive
 - 💞️ I’m looking to collaborate on data management, governance and single-version of truth
